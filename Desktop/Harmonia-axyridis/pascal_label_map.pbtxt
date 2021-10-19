@@ -1,0 +1,24 @@
+item {
+ id: 1
+ name: 'Two_spots '
+}
+item {
+ id: 2
+ name: 'Two_spots_mutant'
+}
+item {
+ id: 3
+ name: 'Rash'
+}
+item {
+ id: 4
+ name: 'Red'
+}
+item {
+ id: 5
+ name: 'None'
+}
+item {
+ id: 6
+ name: 'Other'
+}

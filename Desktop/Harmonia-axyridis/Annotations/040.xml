@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>040.jpg</filename>
+    <path>Harmonia-axyridis-PascalVOC-export/Annotations/040.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Rash</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>15.616438356164382</xmin>
+        <ymin>0.684931506849315</ymin>
+        <xmax>84.10958904109589</xmax>
+        <ymax>94.7945205479452</ymax>
+    </bndbox>
+</object>
+</annotation>

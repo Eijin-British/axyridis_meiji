@@ -1,0 +1,59 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>905.jpg</filename>
+    <path>Harmonia-axyridis-PascalVOC-export/Annotations/905.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>960</width>
+        <height>858</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Red</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>367.8996205757168</xmin>
+        <ymin>44.04706932516659</ymin>
+        <xmax>466.9964227710573</xmax>
+        <ymax>168.8470553229837</ymax>
+    </bndbox>
+</object><object>
+    <name>Red</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>377.9928665434588</xmin>
+        <ymin>229.41176470588235</ymin>
+        <xmax>468.8315202172939</xmax>
+        <ymax>350.5411834716797</ymax>
+    </bndbox>
+</object><object>
+    <name>Red</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>519.2974700380825</xmin>
+        <ymin>406.517640057732</ymin>
+        <xmax>644.0860565076165</xmax>
+        <ymax>504.7058823529411</ymax>
+    </bndbox>
+</object><object>
+    <name>Red</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>522.9677349350358</xmin>
+        <ymin>503.78824929630053</ymin>
+        <xmax>636.7455267137096</xmax>
+        <ymax>595.5529551786535</ymax>
+    </bndbox>
+</object>
+</annotation>

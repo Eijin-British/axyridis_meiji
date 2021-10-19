@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>018.jpg</filename>
+    <path>Harmonia-axyridis-PascalVOC-export/Annotations/018.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Two_spots </name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>18.63013698630137</xmin>
+        <ymin>2.191780821917808</ymin>
+        <xmax>78.21917808219177</xmax>
+        <ymax>92.46575342465752</ymax>
+    </bndbox>
+</object>
+</annotation>

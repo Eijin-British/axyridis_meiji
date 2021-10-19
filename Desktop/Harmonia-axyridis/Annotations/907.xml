@@ -1,0 +1,202 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>907.jpg</filename>
+    <path>Harmonia-axyridis-PascalVOC-export/Annotations/907.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>480</width>
+        <height>361</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Two_spots </name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>64.70222212179326</xmin>
+        <ymin>25.86845214354163</ymin>
+        <xmax>119.94567993900904</xmax>
+        <ymax>88.80213903743315</ymax>
+    </bndbox>
+</object><object>
+    <name>Two_spots </name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>207.25353586361922</xmin>
+        <ymin>49.80641563945913</ymin>
+        <xmax>257.8611758441273</xmax>
+        <ymax>108.10695187165776</ymax>
+    </bndbox>
+</object><object>
+    <name>Two_spots </name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>267.519123530244</xmin>
+        <ymin>37.451339844076394</ymin>
+        <xmax>326.2394336723466</xmax>
+        <ymax>103.85989893948968</ymax>
+    </bndbox>
+</object><object>
+    <name>Two_spots </name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>409.2978132466675</xmin>
+        <ymin>104.24598930481284</ymin>
+        <xmax>469.9497129259934</xmax>
+        <ymax>167.951871657754</ymax>
+    </bndbox>
+</object><object>
+    <name>Red</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>298.81086813851863</xmin>
+        <ymin>91.89090614522841</ymin>
+        <xmax>358.30383177974096</xmax>
+        <ymax>152.8941264841008</ymax>
+    </bndbox>
+</object><object>
+    <name>Two_spots </name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>357.9175197670397</xmin>
+        <ymin>81.85240936279297</ymin>
+        <xmax>413.9336163465166</xmax>
+        <ymax>153.66630721474712</ymax>
+    </bndbox>
+</object><object>
+    <name>Two_spots </name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>4.050307705608652</xmin>
+        <ymin>274.51443261131243</ymin>
+        <xmax>55.43058644837777</xmax>
+        <ymax>331.65669038333994</ymax>
+    </bndbox>
+</object><object>
+    <name>Two_spots </name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>70.88330274616449</xmin>
+        <ymin>119.68983957219251</ymin>
+        <xmax>130.76257840008805</xmax>
+        <ymax>183.00963155981054</ymax>
+    </bndbox>
+</object><object>
+    <name>Red</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>49.635817836707744</xmin>
+        <ymin>203.08662512468143</ymin>
+        <xmax>114.15091132733903</xmax>
+        <ymax>257.52622088264013</ymax>
+    </bndbox>
+</object><object>
+    <name>Two_spots </name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>56.203225210638834</xmin>
+        <ymin>256.75401069518716</ymin>
+        <xmax>128.83098886286467</xmax>
+        <ymax>314.2823588325378</ymax>
+    </bndbox>
+</object><object>
+    <name>Two_spots </name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>124.96780978841801</xmin>
+        <ymin>224.70803906445835</ymin>
+        <xmax>182.1428718797158</xmax>
+        <ymax>292.6609743495676</ymax>
+    </bndbox>
+</object><object>
+    <name>Two_spots </name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>293.4024115395498</xmin>
+        <ymin>164.86310454995873</ymin>
+        <xmax>354.44065270529427</xmax>
+        <ymax>235.5187165775401</ymax>
+    </bndbox>
+</object><object>
+    <name>Two_spots_mutant</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>355.2132767306967</xmin>
+        <ymin>152.50802139037432</ymin>
+        <xmax>426.68211908167757</xmax>
+        <ymax>213.8973320945699</ymax>
+    </bndbox>
+</object><object>
+    <name>Two_spots_mutant</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>173.64386023170272</xmin>
+        <ymin>247.48769464339802</ymin>
+        <xmax>239.3179044972963</xmax>
+        <ymax>304.24386205010234</ymax>
+    </bndbox>
+</object><object>
+    <name>Two_spots </name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>243.18108357174296</xmin>
+        <ymin>100.3850267379679</ymin>
+        <xmax>299.9698336503395</xmax>
+        <ymax>163.70481872558594</ymax>
+    </bndbox>
+</object><object>
+    <name>Rash</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>123.03622025119466</xmin>
+        <ymin>111.19571897945302</ymin>
+        <xmax>192.1871315785337</xmax>
+        <ymax>164.0909090909091</ymax>
+    </bndbox>
+</object><object>
+    <name>Two_spots </name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>118.01409040178571</xmin>
+        <ymin>176.05990188517035</ymin>
+        <xmax>184.07446141693913</xmax>
+        <ymax>223.16364814635904</ymax>
+    </bndbox>
+</object>
+</annotation>

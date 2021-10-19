@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>020.jpg</filename>
+    <path>Harmonia-axyridis-PascalVOC-export/Annotations/020.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Other</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>15.205479452054794</xmin>
+        <ymin>5.47945205479452</ymin>
+        <xmax>86.43835616438355</xmax>
+        <ymax>93.97260273972603</ymax>
+    </bndbox>
+</object>
+</annotation>

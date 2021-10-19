@@ -1,0 +1,59 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>021.jpg</filename>
+    <path>Harmonia-axyridis-PascalVOC-export/Annotations/021.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>400</width>
+        <height>314</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>None</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>151.7808219178082</xmin>
+        <ymin>6.315616201563864</ymin>
+        <xmax>278.35616438356163</xmax>
+        <ymax>109.3383038106389</ymax>
+    </bndbox>
+</object><object>
+    <name>None</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>77.80821917808218</xmin>
+        <ymin>89.06256210034222</ymin>
+        <xmax>196.71232876712327</xmax>
+        <ymax>193.18123574781168</ymax>
+    </bndbox>
+</object><object>
+    <name>None</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>153.97260273972603</xmin>
+        <ymin>180.5773963062759</ymin>
+        <xmax>262.4657534246575</xmax>
+        <ymax>298.9438884528727</ymax>
+    </bndbox>
+</object><object>
+    <name>None</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>206.02739726027397</xmin>
+        <ymin>102.21439456107521</ymin>
+        <xmax>323.28767123287673</xmax>
+        <ymax>216.1969425540944</ymax>
+    </bndbox>
+</object>
+</annotation>
